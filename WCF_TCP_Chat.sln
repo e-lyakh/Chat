@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Service", "WCF_TCP_Chat\Service.csproj", "{3861B8D9-B3A0-4FEF-B8EA-9F569B60B5B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{8822416C-9879-452C-B282-A07BBEBDACDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3861B8D9-B3A0-4FEF-B8EA-9F569B60B5B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3861B8D9-B3A0-4FEF-B8EA-9F569B60B5B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3861B8D9-B3A0-4FEF-B8EA-9F569B60B5B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3861B8D9-B3A0-4FEF-B8EA-9F569B60B5B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8822416C-9879-452C-B282-A07BBEBDACDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8822416C-9879-452C-B282-A07BBEBDACDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8822416C-9879-452C-B282-A07BBEBDACDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8822416C-9879-452C-B282-A07BBEBDACDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E780A8AA-B93B-409D-8A3D-C33EAE915FDA}
+	EndGlobalSection
+EndGlobal
